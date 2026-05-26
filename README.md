@@ -12,7 +12,7 @@
 
 Склонируйте репозиторий (или создайте файлы вручную)
 
-git clone https://github.com/padalshikkk/trending\_search.git
+git clone https://github.com/padalshikkk/trending_search.git
 
 cd trending-search
 
