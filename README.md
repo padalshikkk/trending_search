@@ -52,8 +52,6 @@ docker exec -it trending-search-kafka-1 kafka-console-producer --topic search-ev
 
 В интерактивном режиме вводите JSON‑строки:
 
-json
-
 {"term":"iphone","user\_id":"user1"}
 
 {"term":"iphone","user\_id":"user2"}
